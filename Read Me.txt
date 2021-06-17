@@ -1,0 +1,14 @@
+พี่รันไฟล์จากบนลงล่างนะครับ
+
+CON1_Create Table D_EMPLOYEE_ORA06 
+CON2_Create Table D_DEPARTMENT_ORA06 
+CON3_Create Table F_SALARY_ORA06
+CON4_D_EMPLOYEE_ORA06_V
+CON5_D_DEPARTMENT_ORA06_V
+CON6_F_SALARY_ORA06_V
+CON7_insert D_EMPLOYEE_ORA06
+CON8_insert D_DEPARTMENT_ORA06
+CON9_insert F_SALARY_ORA06
+CON10_execute
+
+ถ้าผิดพลาดประการใดขออภัยไว้ ณ ที่นี้ด้วยครับ
